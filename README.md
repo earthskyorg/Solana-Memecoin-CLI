@@ -118,7 +118,7 @@
 ```
 ### Installation 🛠️
 
-1. `git clone https://github.com/ManofDiligence/solana-memecoin-cli.git`
+1. `git clone https://github.com/earthskyorg/solana-memecoin-cli.git`
 2. `cd solana-memecoin-cli`
 3. `nvm install v22.2.0`
 4. `nvm use v22.2.0`
