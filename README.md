@@ -1,6 +1,15 @@
 # SPL token ALL-IN-ONE Command line tool 🚀
+The SPL Token Command-Line Interface (CLI) is a powerful tool set designed for creating, managing, and interacting with SPL tokens on the Solana blockchain. Below is a comprehensive overview of the SPL Token CLI, outlining its features, installation process, and key operations.
 
-[🔗doc](https://outsmartchad.github.io/solana-memecoin-cli/)
+## 🙋‍♂️ Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👋 ##
+
+<div style={{display : flex ; justify-content : space-evenly}}> 
+    <a href="https://discordapp.com/users/343286332446998530" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://t.me/opensea712" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</div>
+
 ## Main Features
 - Trading any token using Jupiter API & Raydium swap function
 
