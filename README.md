@@ -1,5 +1,5 @@
 # SPL token ALL-IN-ONE Command line tool 🚀
-The SPL Token Command-Line Interface (CLI) is a powerful tool set designed for creating, managing, and interacting with SPL tokens on the Solana blockchain. Below is a comprehensive overview of the SPL Token CLI, outlining its features, installation process, and key operations.
+This is tailored for developers and enthusiasts looking to launch meme coins on the Solana blockchain. With its user-friendly commands, it simplifies complex blockchain interactions, making it accessible even to those without extensive programming knowledge. The tool promotes rapid token deployment while retaining essential functionalities necessary for effective token management.
 
 ## 🙋‍♂️ Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👋 ##
 
