@@ -3,6 +3,8 @@ This is tailored for developers and enthusiasts looking to launch meme coins on 
 
 ## 🙋‍♂️ Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👋 ##
 
+Telegram: https://t.me/opensea712
+
 <div style={{display : flex ; justify-content : space-evenly}}> 
     <a href="https://discordapp.com/users/343286332446998530" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
