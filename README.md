@@ -6,10 +6,10 @@ This is tailored for developers and enthusiasts looking to launch meme coins on 
 Telegram: https://t.me/opensea712
 
 <div style={{display : flex ; justify-content : space-evenly}}> 
-    <a href="https://discordapp.com/users/343286332446998530" target="_blank"><img alt="Discord"
-        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://t.me/opensea712" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://discordapp.com/users/343286332446998530" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
 
 ## Main Features
@@ -30,11 +30,6 @@ Telegram: https://t.me/opensea712
 - **_Pump.fun sdk_** Integration
 
 - **_Got everything needed for any developer to create their own trading bot_**
-
-## Credits
-- https://github.com/outsmartchad/raydium-sdk-V1-demo
-- https://github.com/rckprtr/pumpdotfun-sdk
-- https://github.com/Al366io/solana-transactions-wrapper
 
 
 ## Project Structure
@@ -299,7 +294,3 @@ node sell --token_address <ADDRESS_TOKEN> --percentage <SELL_PERCENTAGE>
 - ``` git stash pop # Apply Your stashed changes```
 
 ### If you think this project is useful, please give us a star🌟, it will help us a lot.
-
-### It is a work in progress, if you have any suggestions or any problems, please let us know!
-
-### Stay tuned for the updates.🤖_**
