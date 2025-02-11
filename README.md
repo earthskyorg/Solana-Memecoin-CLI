@@ -1,6 +1,5 @@
 # SPL token ALL-IN-ONE Command line tool 🚀
 
-[🔗doc](https://outsmartchad.github.io/solana-memecoin-cli/)
 ## Main Features
 - Trading any token using Jupiter API & Raydium swap function
 
