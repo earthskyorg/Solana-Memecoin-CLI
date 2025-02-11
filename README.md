@@ -1,4 +1,17 @@
+@@ -1,305 +1,296 @@
 # SPL token ALL-IN-ONE Command line tool 🚀
+This is tailored for developers and enthusiasts looking to launch meme coins on the Solana blockchain. With its user-friendly commands, it simplifies complex blockchain interactions, making it accessible even to those without extensive programming knowledge. The tool promotes rapid token deployment while retaining essential functionalities necessary for effective token management.
+
+## 🙋‍♂️ Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👋 ##
+
+Telegram: https://t.me/opensea712
+
+<div style={{display : flex ; justify-content : space-evenly}}> 
+    <a href="https://t.me/opensea712" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://discordapp.com/users/343286332446998530" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</div>
 
 ## Main Features
 - Trading any token using Jupiter API & Raydium swap function
@@ -6,11 +19,11 @@
 - Create your own Solana **_SPL tokens_** on mainnet | Pump.fun
 
 - Create your own zk-compressed token in your own zk-testnet
-  
+
 - Performing **_LP transactions_** On Raydium, Orca and Meteora
-  
+
 - Predefined Jito tips and Priority fee
-  
+
 - Volume Booster by bundling buy and sell in one transaction!
 
 - Fastest Copy Trade Program
@@ -18,7 +31,6 @@
 - **_Pump.fun sdk_** Integration
 
 - **_Got everything needed for any developer to create their own trading bot_**
-
 
 ## Project Structure
 ```
@@ -140,7 +152,7 @@
 - **Buy, Sell, and launch token in pump.fun**
 - Check the balance of a token in your wallet
 - monitor real-time pump-fun's create, trade, and complete bonding curve events
-  
+
 ### Trader CLI:
 - Optimized Copy Trading Program with auto-buy&sell
 
@@ -179,7 +191,6 @@ node revoke_authority --payer <PATH_TO_SECRET_KEY> --mint_address <ADDRESS_TOKEN
 
 ```
 node boost_volume --token_address <TOKEN_ADDRESS> --payer <PATH_TO_SECRET_KEY> --cluster <CLUSTER> --sol_per_order <SOL_PER_ORDER>
-
 ```
 
 5. Specify the token address, the amount of Sol you want to swap, and the cluster you want to use.
