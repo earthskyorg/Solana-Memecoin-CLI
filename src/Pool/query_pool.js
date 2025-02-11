@@ -364,9 +364,9 @@ async function main() {
   //   'So11111111111111111111111111111111111111112',
   // );
   // console.log(poolIdByPair);
-  
+  await howToUse();
 }
-//main().catch(console.error);
+main().catch(console.error);
 module.exports = {
   getPoolIdByPair,
   queryLpByToken,

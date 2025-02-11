@@ -279,9 +279,7 @@ async function swap(
     wallet.publicKey
   );
   if (side === "buy") {
-    // buy - use sol to swap to the token
 
-    //const { tokenName, tokenSymbol } = await getTokenMetadata(tokenAddress);
     const outputToken = new Token(
       TOKEN_PROGRAM_ID,
       tokenAccount,

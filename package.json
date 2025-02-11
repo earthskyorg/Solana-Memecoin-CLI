@@ -7,9 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "vincentso",
-  "url": "https://github.com/outsmartchad/solana-memecoin-cli/issues",
-  "homepage": "https://github.com/outsmartchad/solana-memecoin-cli",
+  "author": "earthskyorg",
+  "url": "https://github.com/earthskyorg/solana-memecoin-cli/issues",
+  "homepage": "https://github.com/earthskyorg/solana-memecoin-cli",
   "license": "ISC",
   "dependencies": {
     "@bonfida/spl-name-service": "^2.5.2",

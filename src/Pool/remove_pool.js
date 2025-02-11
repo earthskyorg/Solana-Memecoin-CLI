@@ -3,7 +3,6 @@ const assert = require("assert");
 const {
   jsonInfo2PoolKeys,
   Liquidity,
-  LiquidityPoolKeys,
   TokenAmount,
   Token,
   TOKEN_PROGRAM_ID,
@@ -13,10 +12,8 @@ const { Keypair, PublicKey } = require("@solana/web3.js");
 const { Decimal } = require("decimal.js");
 const {
   connection,
-  DEFAULT_TOKEN,
   makeTxVersion,
   wallet,
-  dev_connection,
 } = require("../helpers/config.js");
 const {
   formatAmmKeysById_pool,

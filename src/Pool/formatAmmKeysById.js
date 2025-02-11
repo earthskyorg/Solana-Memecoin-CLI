@@ -5,7 +5,6 @@ const {
   Liquidity,
   Market,
   MAINNET_PROGRAM_ID,
-  LiquidityStateV4,
   publicKey,
   struct,
 } = require("@raydium-io/raydium-sdk");
