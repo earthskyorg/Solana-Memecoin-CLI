@@ -1,12 +1,12 @@
 {
   "name": "solana-memecoin-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "solana memecoin cli",
   "main": "help.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["solana", "memecoin", "cli"],
   "author": "earthskyorg",
   "url": "https://github.com/earthskyorg/solana-memecoin-cli/issues",
   "homepage": "https://github.com/earthskyorg/solana-memecoin-cli",
