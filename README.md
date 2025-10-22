@@ -291,4 +291,4 @@ node sell --token_address <ADDRESS_TOKEN> --percentage <SELL_PERCENTAGE>
 - ``` git pull --rebase # Pull the latest changes```
 - ``` git stash pop # Apply Your stashed changes```
 
-### If you think this project is useful, please give us a star🌟, it will help us a lot.
+### If you think this project is useful, please give us a star 🌟
