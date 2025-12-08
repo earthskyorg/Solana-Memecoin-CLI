@@ -1,7 +1,7 @@
 # SPL token ALL-IN-ONE Command line tool 🚀
 This is tailored for developers and enthusiasts looking to launch memecoins on the Solana blockchain. With its user-friendly commands, it simplifies complex blockchain interactions, making it accessible even to those without extensive programming knowledge. The tool promotes rapid token deployment while retaining essential functionalities necessary for effective token management.
 
-## 🙋‍♂️ Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👋 ##
+## Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👋 ##
 
 Telegram: https://t.me/opensea712
 
