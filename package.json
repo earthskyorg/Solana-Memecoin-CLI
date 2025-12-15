@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["solana", "memecoin", "cli"],
+  "keywords": ["solana", "memecoin", "cli", "trading", "copy trading", "pump.fun", "raydium", "orca", "meteora", "jupiter", "jito", "bloXroute", "limit order", "dollar cost average", "stop loss", "take profit"],
   "author": "earthskyorg",
   "url": "https://github.com/earthskyorg/solana-memecoin-cli/issues",
   "homepage": "https://github.com/earthskyorg/solana-memecoin-cli",
